@@ -74,9 +74,9 @@ function doPost(e) {
     {
       replyMessage = generateUtsuDataMessage(null,userData);
     }
-    else if(userMEssage == "ヘルプ")
+    else if(userMessage == "ヘルプ")
     {
-      replyMessage = "初期化：ユーザー情報の初期化\n" 
+      replyMessage = "初期化：ユーザー情報の初期化\n" +
                      "登録：ユーザーの名前変更(初期値はundefined)\n" +
                      "うつだ：今どこ?と質問されます\n"+
                      "LINE位置情報：位置情報をもとに、うつ状態での位置情報を記録し、天候/気圧変化、時刻の傾向を記録した「うつ天気分析データ」を送信します\n" +

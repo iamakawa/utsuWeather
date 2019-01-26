@@ -1,8 +1,8 @@
 # はじめに
 このLINEbotはうつな時にLINEの位置情報を送信すると、その時の天気・気圧の変化状況を蓄積・分析した結果を通知してくれるアプリです。
 
-# ユーザー登録
-こちらのページからLINEのQRコードリーダーで友達追加してください。
+# ユーザー登録
+こちらのページからLINEのQRコードリーダーで友達追加してください。
 https://docs.google.com/presentation/d/1VJMyaj3RAaSyNnDn0u0CFM4DLh2T6EcoDUfV2nA_osY/edit?usp=sharing
 
 # マニュアル
@@ -24,7 +24,7 @@ https://docs.google.com/presentation/d/1VJMyaj3RAaSyNnDn0u0CFM4DLh2T6EcoDUfV2nA_
 (ユーザーネームの登録は必須ではありません)
 
 ## コマンド一覧
-+ "初期化"：ユーザー情報の初期化
++ "初期化"：ユーザー情報の初期化
 + "登録"：ユーザーの名前変更(初期値はundefined)
 + "うつだ"：今どこ?と質問されます
 + LINE位置情報：位置情報をもとに、うつ状態での位置情報を記録し、天候/気圧変化、時刻の傾向を記録した「うつ天気分析データ」を送信します
