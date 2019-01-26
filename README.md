@@ -2,7 +2,7 @@
 このLINEbotはうつな時にLINEの位置情報を送信すると、その時の天気・気圧の変化状況を蓄積・分析した結果を通知してくれるアプリです。
 
 # ユーザー登録
-こちらのページからLINEのQRコードリーダーで友達追加してください。
+こちらのページからLINEのQRコードリーダーで友達追加してください。
 https://docs.google.com/presentation/d/1VJMyaj3RAaSyNnDn0u0CFM4DLh2T6EcoDUfV2nA_osY/edit?usp=sharing
 
 # マニュアル
